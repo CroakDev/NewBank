@@ -841,7 +841,7 @@ export default function NuBankApp() {
                   <CardContent className="p-6">
                     <div className="flex justify-center">
                       <img
-                        src="/placeholder.svg?height=200&width=300"
+                        src="https://www.datocms-assets.com/120597/1746628806-app-na-home-e-cartao-nubank-em-superficie-geometrica-quadrada-ptbr-conteudo-dinamico-02-mobile-jpg.jpg?auto=format&crop=focalpoint&dpr=1&fit=crop&q=60"
                         alt="NuBank App Screens"
                         className="rounded-lg shadow-lg transform hover:scale-105 transition-transform duration-300"
                       />
